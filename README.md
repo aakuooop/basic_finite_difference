@@ -1,10 +1,7 @@
-These codes are developed for educational purposes.
+These codes are developed for educational purposes. Written for the example problems of the textbook "Computational Fluid Dynamics Vol - I " by Hoffmann and Chiang.
 # Parabolic
-This folder contains the code written for the example problem (Couette flow problem, Page No. 67) from Chapter 3 of the textbook "Computational Fluid
-Dynamics Vol - I " by Hoffmann and Chiang. Four different finite difference schemes are adopted to solve this problem. The given methods are explained 
-in this book in great detail. Go to page 60 to learn about the different schemes used in these codes.  
+Couette flow problem, Page No. 67 from Chapter 3. Go to page 60 to learn about the different schemes used in these codes.  
 
 # Elliptic
-1. Elliptic/problem1 folder contains the code written for the application problem for elliptic problem (Page No. 167) from Chapter 5 of the textbook "Computational Fluid Dynamics Vol - I " by Hoffmann and Chiang.  Different methods such as point Gauss-Siedel iteration method, line Gauss-Siedel, PSOR, LSOR, Alternation Direction Implicit (ADI) method and AADI are used to solve the 2D steady heat conduction equation. Go to page 152 of this book for detailed explanation and formulation of these methods.
-2. Elliptic/problem2 folder contains the code written for other example problems (Problem 5.1,5.2 & 5.3 denoted in the code as P5_1,P5_2 and P5_3 respectively, Page No. 175) from Chapter 5 of the above mentioned book.  
+Contains the codes written for the example problem for elliptic equations (*Page No. 167 referred in the code as P1,P2,P3,P4,P5* & P6 and *Problem 5.1,5.2 & 5.3 denoted in the code as P5_1,P5_2 and P5_3 respectively, Page No. 175*) from Chapter 5. Different methods such as point Gauss-Siedel iteration method, line Gauss-Siedel, PSOR, LSOR, Alternation Direction Implicit (ADI) method and AADI are used to solve 2D elliptic PDEs. Go to page 152 to learn different methods used in these codes.  
 

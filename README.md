@@ -5,5 +5,5 @@ Dynamics Vol - I " by Hoffmann and Chiang. Four different finite difference sche
 in this book in great detail. Go to page 60 to learn about the different schemes used in these codes.  
 
 # Elliptic
-1. Elliptic/problem1 folder contains the code written for the example problem for elliptic problem (Page No. 167) from Chapter 5 of the textbook "Computational Fluid Dynamics Vol - I " by Hoffmann and Chiang.  Different methods such as point Gauss-Siedel iteration method, line Gauss-Siedel, PSOR, LSOR, Alternation Direction Implicit (ADI) method and AADI are used to solve the 2D heat conduction equation. Go to page 152 of this book for detailed explanation and formulation of these methods.
+1. Elliptic/problem1 folder contains the code written for the example problem for elliptic problem (Page No. 167) from Chapter 5 of the textbook "Computational Fluid Dynamics Vol - I " by Hoffmann and Chiang.  Different methods such as point Gauss-Siedel iteration method, line Gauss-Siedel, PSOR, LSOR, Alternation Direction Implicit (ADI) method and AADI are used to solve the 2D steady heat conduction equation. Go to page 152 of this book for detailed explanation and formulation of these methods.
 

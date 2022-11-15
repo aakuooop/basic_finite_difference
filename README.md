@@ -1,4 +1,4 @@
-These codes are developed for educational purposes. Written for the example problems of the textbook "Computational Fluid Dynamics Vol - I " by Hoffmann and Chiang.
+These codes are developed for educational purposes. Written for the example problems of the textbook "Computational Fluid Dynamics Vol - I " by Hoffmann and Chiang. Thomas algorithm to solve tridiagonal systems of equations is also included (document & code). 
 # Parabolic
 Couette flow problem, Page No. 67 from Chapter 3. Go to page 60 to learn about the different schemes used in these codes.  
 
